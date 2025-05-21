@@ -1,8 +1,8 @@
-## Introduction
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub!;)]()
 
-- 👀 I’m interested in ML algorithms and Web Dev
-- 🌱 I’m currently learning Web development frameworks, libraries etc.
-- 💞️ I’m looking to collaborate on - 
+ 👀 I’m interested in ML algorithms and Web Dev
+ 🌱 I’m currently learning Web development frameworks, libraries etc.
+ 💞️ I’m looking to collaborate on - 
 
 
 ## Tech Stack
@@ -13,4 +13,5 @@
 
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
